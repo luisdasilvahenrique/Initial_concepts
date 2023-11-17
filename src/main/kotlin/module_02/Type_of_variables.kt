@@ -1,3 +1,5 @@
+package module_02
+
 fun main() {
     var name: String = "Luis"; // mutable variable
     val age: Int = 21; // immutable variable
