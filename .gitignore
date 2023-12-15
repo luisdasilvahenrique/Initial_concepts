@@ -1,5 +1,5 @@
 /.idea
 /build
 /dist
-./out
-/.gitignore
+out/
+.gitignore

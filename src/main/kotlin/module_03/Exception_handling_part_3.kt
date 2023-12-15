@@ -7,7 +7,7 @@ fun main() {
 }
 
 fun readingFile(){
-    var arquivo = File("C:\\Users\\Administrador\\Documents\\Introdução ao desenvolvimento android\\Initial_concepts\\src\\main\\kotlin\\module_03\\passo a passo.txt")
+    var arquivo = File("C:\\Users\\Administrador\\Documents\\Introdução ao desenvolvimento android\\Initial_concepts\\src\\module_04.main\\kotlin\\module_03\\passo a passo.txt")
     try {
         Scanner(arquivo).use {l ->
             l.useDelimiter("\\A")
